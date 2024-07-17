@@ -4,6 +4,8 @@ package com.perscholas.java_basics;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-
+GreatestCommonDivisor gcd = new GreatestCommonDivisor();
+//gcd.gcd();
+gcd.tuitionDoubling(10000);
         }
     }
